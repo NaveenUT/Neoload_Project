@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Navigate_to_main_menu" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="a49c1cfd-eb4f-4a5d-b476-25b2b23d4aeb" weightsEnabled="false">
+    <weighted-embedded-action uid="2b4e5b94-02e9-443f-96d6-a023bec17705"/>
+</basic-logical-action-container>

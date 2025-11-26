@@ -1,0 +1,5 @@
+<variable-file delimiters="," filename="C:/Users/UTIS-LP-135/Documents/address.txt" name="p_address" offset="1" order="3" policy="5" range="1" uid="39c0853f-2801-488b-a750-1e6345f64859" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="city" number="0"/>
+<column name="country" number="2"/>
+<column name="state" number="1"/>
+</variable-file>

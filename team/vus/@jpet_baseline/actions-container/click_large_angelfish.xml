@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click_large_angelfish" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="02231921-67c9-43cb-906b-9bcabd260dfc" weightsEnabled="false">
+    <weighted-embedded-action uid="f422c3fd-d5ec-42d3-b60c-5abd6b4de974"/>
+</basic-logical-action-container>

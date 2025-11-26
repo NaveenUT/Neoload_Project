@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/u/0/ogw/AF2bZyjiKNFpH7nBoW_1l8ZTG00SRr71I5H3hq0OmTwl_Ajyjw=s32-c-mo"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/test1/%resources%/recorded-artifacts/742287c3-39cc-4d9b-aed5-bf0c20f35ddd.zip"
+    slaProfileEnabled="false" thinkTime="217"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="742287c3-39cc-4d9b-aed5-bf0c20f35ddd">
+    <embedded-action>bddbfff1-c16b-4818-8af7-4c66584d3d69</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_742287c3-39cc-4d9b-aed5-bf0c20f35ddd.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/og/_/js/k=og.asy.en_US.ZNzr0grymC4.2019.O/rt=j/m=_ac,_awd,adrc,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTs_Yp9Iul0g6ZLQA9tCbcgF5Wo80g"
+    path="/og/_/js/k=og.asy.en_US.ZNzr0grymC4.2019.O/rt=j/m=_ac,_awd,adrc,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTs_Yp9Iul0g6ZLQA9tCbcgF5Wo80g"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/test1/%resources%/recorded-artifacts/742287c3-39cc-4d9b-aed5-bf0c20f35ddd.zip"
+    recordedResponseCode="200" responseSize="219336"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="bddbfff1-c16b-4818-8af7-4c66584d3d69" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_bddbfff1-c16b-4818-8af7-4c66584d3d69</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bddbfff1-c16b-4818-8af7-4c66584d3d69.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2025"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="AGaxImjg97xQkd0h3geRTArJi8Y="/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;141&quot;, &quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;141&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="CNiAywE="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="x-browser-copyright" value="Copyright 2025 Google LLC. All rights reserved."/>
+    <header name="sec-purpose" value="prefetch;prerender"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-encoding: gzip&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/one-google-eng&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="one-google-eng"&#xd;
+report-to: {"group":"one-google-eng","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/one-google-eng"}]}&#xd;
+content-length: 79792&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+date: Mon, 03 Nov 2025 08:31:47 GMT&#xd;
+expires: Tue, 03 Nov 2026 08:31:47 GMT&#xd;
+cache-control: public, max-age=31536000&#xd;
+last-modified: Mon, 03 Nov 2025 02:27:23 GMT&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+vary: Accept-Encoding, Origin&#xd;
+age: 92610&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

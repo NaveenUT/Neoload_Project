@@ -1,0 +1,92 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/v1:GetHints"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/3fa95cfc-baf0-4ac4-8a65-0dab57ea715b.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3fa95cfc-baf0-4ac4-8a65-0dab57ea715b">
+    <embedded-action>eda34412-6588-4517-9473-1a522de47ddb</embedded-action>
+    <embedded-action>f9d375e3-97d7-41c3-a494-c7bac24c6c77</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v1:GetHints" path="/v1:GetHints" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/3fa95cfc-baf0-4ac4-8a65-0dab57ea715b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="optimizationguide-pa.googleapis.com"
+    slaProfileEnabled="false" uid="eda34412-6588-4517-9473-1a522de47ddb" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[ChAKDnd3dy5uZW90eXMuY29tEAkQEhAUEBUQFxAfECMQRxBcEGEYAiJPCk1odHRwczovL3d3dy5uZW90eXMuY29tL3JlZGlyZWN0L3JlZGlyZWN0LnBocD90YXJnZXQ9cmVjb3JkZXImbG5nPWVuJnBvcnQ9ODA5MCgDKAI6BWVuLVVTSgIIBg==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_eda34412-6588-4517-9473-1a522de47ddb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_eda34412-6588-4517-9473-1a522de47ddb.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE"/>
+    <header name="x-client-data" value="CI+2yQEIpLbJAQipncoBCNiAywEIkqHLAQiFoM0BCOnkzgEIl4zPAQizkc8BCKCYzwEI85jPAQjUmc8BCPedzwEIxJ7PAQj9ns8BGOyFzwEYsobPARjunM8B"/>
+    <header name="content-type" value="application/x-protobuf"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Fri, 21 Nov 2025 15:59:47 GMT&#xd;
+server: ESF&#xd;
+content-length: 523&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v1:GetHints" path="/v1:GetHints" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/3fa95cfc-baf0-4ac4-8a65-0dab57ea715b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="optimizationguide-pa.googleapis.com"
+    slaProfileEnabled="false" uid="f9d375e3-97d7-41c3-a494-c7bac24c6c77" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[ChAKDnd3dy5uZW90eXMuY29tEAkQEhAUEBUQFxAfECMQRxBcEGEYAiJOCkxodHRwOi8vd3d3Lm5lb3R5cy5jb20vcmVkaXJlY3QvcmVkaXJlY3QucGhwP3RhcmdldD1yZWNvcmRlciZsbmc9ZW4mcG9ydD04MDkwKAMoAjoFZW4tVVNKAggG]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_f9d375e3-97d7-41c3-a494-c7bac24c6c77</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f9d375e3-97d7-41c3-a494-c7bac24c6c77.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE"/>
+    <header name="x-client-data" value="CI+2yQEIpLbJAQipncoBCNiAywEIkqHLAQiFoM0BCOnkzgEIl4zPAQizkc8BCKCYzwEI85jPAQjUmc8BCPedzwEIxJ7PAQj9ns8BGOyFzwEYsobPARjunM8B"/>
+    <header name="content-type" value="application/x-protobuf"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Fri, 21 Nov 2025 15:59:47 GMT&#xd;
+server: ESF&#xd;
+content-length: 526&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

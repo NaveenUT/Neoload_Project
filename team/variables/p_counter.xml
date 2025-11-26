@@ -1,0 +1,1 @@
+<variable-counter inc="1" max="10" name="p_counter" order="1" policy="1" range="1" starting="1" uid="f6c8a108-62ca-4570-b9e4-8f9a1b74f454" whenOutOfValues="CYCLE_VALUES"/>

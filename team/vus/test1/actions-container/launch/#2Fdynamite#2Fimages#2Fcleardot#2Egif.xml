@@ -1,0 +1,72 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/dynamite/images/cleardot.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/test1/%resources%/recorded-artifacts/b8802ceb-a28e-4d95-8e7d-3871ea3d00e7.zip"
+    slaProfileEnabled="false" thinkTime="3032"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b8802ceb-a28e-4d95-8e7d-3871ea3d00e7">
+    <embedded-action>331f0e52-3bcb-4d8a-8515-ada7a745954d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b8802ceb-a28e-4d95-8e7d-3871ea3d00e7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dynamite/images/cleardot.gif"
+    path="/dynamite/images/cleardot.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/test1/%resources%/recorded-artifacts/b8802ceb-a28e-4d95-8e7d-3871ea3d00e7.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.gstatic.com" slaProfileEnabled="false"
+    uid="331f0e52-3bcb-4d8a-8515-ada7a745954d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_331f0e52-3bcb-4d8a-8515-ada7a745954d.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_331f0e52-3bcb-4d8a-8515-ada7a745954d.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1bcigs14ugjx" separator="=" value="1bcigs14ugjx" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://chat.google.com/"/>
+    <header name="x-browser-year" value="2025"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="origin" value="https://chat.google.com"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;141.0.7390.123&quot;, &quot;Not?A_Brand&quot;;v=&quot;8.0.0.0&quot;, &quot;Chromium&quot;;v=&quot;141.0.7390.123&quot;"/>
+    <header name="x-client-data" value="CNiAywE="/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;19.0.0&quot;"/>
+    <header name="sec-ch-ua-full-version" value="&quot;141.0.7390.123&quot;"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="AGaxImjg97xQkd0h3geRTArJi8Y="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;141&quot;, &quot;Not?A_Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;141&quot;"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2025 Google LLC. All rights reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-content-type-options: nosniff&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cache-control: public, max-age=604800&#xd;
+last-modified: Thu, 21 Nov 2024 02:42:49 GMT&#xd;
+expires: Tue, 11 Nov 2025 10:15:41 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 43&#xd;
+accept-ranges: bytes&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/dynamite&#xd;
+cross-origin-opener-policy: same-origin; report-to="dynamite"&#xd;
+report-to: {"group":"dynamite","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/dynamite"}]}&#xd;
+access-control-allow-origin: https://chat.google.com&#xd;
+vary: Origin&#xd;
+date: Tue, 04 Nov 2025 10:15:41 GMT&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

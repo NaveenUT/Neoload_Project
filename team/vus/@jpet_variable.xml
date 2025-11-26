@@ -1,0 +1,40 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="Jpet_variable">
+    <description>assign_variables</description>
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="32673845-ec5c-43b2-bfef-0a4bcf5c87a9"/>
+        <weighted-embedded-action uid="1b61929a-6fa9-46f3-988e-c6a03ff02e4d"/>
+        <weighted-embedded-action uid="ddaeb419-652b-44d8-90b6-a04057ddfcf0"/>
+        <weighted-embedded-action uid="93689435-da77-4d2f-a675-c490a4a4861d"/>
+        <weighted-embedded-action uid="aa7c9b03-3d36-41a8-9f4c-62706fb00106"/>
+        <weighted-embedded-action uid="f8894a38-ea34-4034-847c-9669e96062ed"/>
+        <weighted-embedded-action uid="51ba1ef7-04b6-4c26-8ca6-3f910b55c693"/>
+        <weighted-embedded-action uid="1a51d339-7872-4cb4-9dbc-99c9b264e616"/>
+        <weighted-embedded-action uid="065f0a96-71d2-41d3-b69d-508f47f654f6"/>
+        <weighted-embedded-action uid="46a4c6ea-1e5c-4f8d-b98c-c6e92b7977c8"/>
+        <weighted-embedded-action uid="dea981cf-938e-4503-8b59-f81046fb0893"/>
+        <weighted-embedded-action uid="2c8cd5ca-f11c-453e-a7fa-0e85f883bbf5"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+    <assertions>
+        <assertion-content name="assertion_1" notType="false" pattern="200"/>
+    </assertions>
+</virtual-user>

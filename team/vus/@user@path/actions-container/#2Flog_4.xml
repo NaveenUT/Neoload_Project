@@ -1,0 +1,74 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/log_4"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/4eaa413d-3069-456f-8089-e47ea7b2b05d.zip"
+    slaProfileEnabled="false" thinkTime="144"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4eaa413d-3069-456f-8089-e47ea7b2b05d">
+    <embedded-action>fe4a8e41-7ddf-4927-9713-51332324e99a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_4eaa413d-3069-456f-8089-e47ea7b2b05d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/log" path="/log" postCharset="UTF-8"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/4eaa413d-3069-456f-8089-e47ea7b2b05d.zip"
+    recordedResponseCode="200" responseSize="131"
+    serverUid="play.google.com" slaProfileEnabled="false"
+    uid="fe4a8e41-7ddf-4927-9713-51332324e99a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fe4a8e41-7ddf-4927-9713-51332324e99a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fe4a8e41-7ddf-4927-9713-51332324e99a.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="hasfast" recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="auth"
+        recordRawValue="SAPISIDHASH+1c6ad40cc3fbd11389c6246860a4d767825982a9+SAPISID1PHASH+1c6ad40cc3fbd11389c6246860a4d767825982a9+SAPISID3PHASH+1c6ad40cc3fbd11389c6246860a4d767825982a9"
+        separator="="
+        value="SAPISIDHASH 1c6ad40cc3fbd11389c6246860a4d767825982a9 SAPISID1PHASH 1c6ad40cc3fbd11389c6246860a4d767825982a9 SAPISID3PHASH 1c6ad40cc3fbd11389c6246860a4d767825982a9" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="authuser" recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="format"
+        recordRawValue="json" separator="=" value="json" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://docs.google.com/"/>
+    <header name="x-browser-year" value="2025"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="_ga=GA1.1.556118033.1748861916; _ga_6VGGZHMLM2=GS2.1.s1748861917$o1$g0$t1748861927$j50$l0$h0; OSID=g.a0002wj3x_P_n3x2s23vKiNdmb-QN20aUMwEVltimkjykcaFGWRXm_owqRksEVX8S9YZIIST7wACgYKAd0SARYSFQHGX2MinaxDpPCLaX28X3-JssK_ehoVAUF8yKrIZRMUZkYTB6zngcP9q44t0076; __Secure-OSID=g.a0002wj3x_P_n3x2s23vKiNdmb-QN20aUMwEVltimkjykcaFGWRXeUktw6eBxKyUFZt1e1Y2dwACgYKAWASARYSFQHGX2MijCzJBdLXetxAzyUBEC1X2BoVAUF8yKoMxLtnl6yZmS742t4XvnMu0076; SID=g.a0003Qj3xyGaxh7KDc7Xgg_TZypCemkiP-D2iGSPJ_HDl_9GyaRc7VwF0dODVifyKLJX-mqI7gACgYKAX0SARYSFQHGX2MiawNtxIcvNTrsyd846RRGihoVAUF8yKrDoOJP_0qHLtX_GjDBaIsp0076; __Secure-1PSID=g.a0003Qj3xyGaxh7KDc7Xgg_TZypCemkiP-D2iGSPJ_HDl_9GyaRc8Hr_PIrEhw9K57V_4HX_HwACgYKAVcSARYSFQHGX2MiHQGlMEkqmChIM-NQuFt_1xoVAUF8yKqfh8rINLELZA6ZiItQqh490076; __Secure-3PSID=g.a0003Qj3xyGaxh7KDc7Xgg_TZypCemkiP-D2iGSPJ_HDl_9GyaRcWv_dnRuOphCsNI7sL2C6kQACgYKAVESARYSFQHGX2MiNIL2hDM3qCyU_AAqyacvlxoVAUF8yKq_PlcVEaG3RHeVF38FLcIQ0076; HSID=AaRl3iu0pO7ek4bq8; SSID=ApP4HIP0n1ZT6z-UI; APISID=gnzc_HoH6nBfz2E2/AeCmHkzPJxS6ezCQL; SAPISID=8pwZal3BrK9sFcAG/AgIINec9xfrH6Zy5q; __Secure-1PAPISID=8pwZal3BrK9sFcAG/AgIINec9xfrH6Zy5q; __Secure-3PAPISID=8pwZal3BrK9sFcAG/AgIINec9xfrH6Zy5q; AEC=AaJma5sZU6lODzjGfpOgIM3YY4rzXf9BbKCdZbaSbat7k4wTC3fdwQdgrj0; PLAY_ACTIVE_ACCOUNT=ICrt_XL61NBE_S0rhk8RpG0k65e0XwQVdDlvB6kxiQ8=authuser-0; NID=526=m-3QbPrdK-CEzen5LZPf86a3m4_m_euD-eElwDsjy1lx-OkXBUPUWotcIX7MQnSmAJo1tfS4_M-827FPePitFjhfvQfW17oOHgzH5To2g77HtDP5dez5EvIX28Gh3VYAIPhZ3dzXWvqvacgnqAxzUBMUKj8v3WR2f7kNdm0GZsubBlj0zh7pRlv_HJ6yF6UT3M4I0JZxB0n8TfKhrMB1NbcoDC3Zepcf3BSEqQIpIhVfSDWwH7hiRt1o6yQyH2lRutVMV6fGd8hHvYfaL-aRg1hNBjqdZyH9v7J_ubtJvoQsc-hHp6j1oDz2IHOtENeqK2bDbvv5t1JstHaJFtTJMmqnetdLN35BI7SBpODdP5WRk7jRyIBR-L50A5I9tz_6V6I3cMrw13I2neWcPZS_xrrlqMe2tXzhhmO_uzvpYZy5emkkHdsE9oBPfztfupbR_e8R26NoFC1Fxmgbr3TTHQRYt2IvR683_vmg7LXwB44FI2b2PmEwhMPd8Z3Its6aA9tKmNHW-NXEktFhtpVzDfduwizhIw66K6MaODaJCkBAcXQBN4wgUwSjzzfzqlsCaLzcmAUwNIiZ_PzGaKHtL86ur9bkRCAxr53B3oKDVMsPUum-yDpORnh6kcbYQksuqNNbx8QpXNTZjWDiQpkHHvT2JunpuwCmiTUYDfryIwGxm06b5u6JY58zGNsu4DYXI9YvC0ey6B95jr8yvc5mDhYLyfgcNG6ro5In9h9-25l2If4ZCKTx; __Secure-1PSIDTS=sidts-CjIBwQ9iI5aBnc7OnKTnVJpzMR3zgM7CwRVJ3or1TSUeVooUGSss9o1K7wG9m7rWCyywNRAA; __Secure-3PSIDTS=sidts-CjIBwQ9iI5aBnc7OnKTnVJpzMR3zgM7CwRVJ3or1TSUeVooUGSss9o1K7wG9m7rWCyywNRAA; SIDCC=AKEyXzXp688bcuxvh88PY5ZFGwgHOJ1-mnXr_jAm_4HP_oeeSCh86K1X22MEaT1UiJVtFzUneHjA; __Secure-1PSIDCC=AKEyXzUkXjVYS4RT4mqtyFQX2cuNpHBVjyF-kk3um3bJzakEV9aKH5IrT0-iksuVU2Q7HfzhSuz5; __Secure-3PSIDCC=AKEyXzVaLOs3Fn7_s12MYNUVYGkB1EkIOABR5TXx-vS0QT-T46dOnfS_O-02f2l0l57Nset5plc"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="Aj9fzfu+SaGLBY9Oqr3S7RokOtM="/>
+    <header name="origin" value="https://docs.google.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;142&quot;, &quot;Google Chrome&quot;;v=&quot;142&quot;, &quot;Not_A Brand&quot;;v=&quot;99&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="CI+2yQEIpLbJAQipncoBCNiAywEIkqHLAQiFoM0BCOnkzgEIl4zPAQizkc8BCKCYzwEI85jPAQjUmc8BCPedzwEIxJ7PAQj9ns8BGOyFzwEYsobPARjunM8B"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2025 Google LLC. All Rights reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: https://docs.google.com&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: X-Playlog-Web&#xd;
+content-type: text/plain; charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+date: Fri, 21 Nov 2025 16:00:04 GMT&#xd;
+server: Playlog&#xd;
+content-length: 131&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: SIDCC=AKEyXzUTDF6oBVrNLprEGY0H3b1xfCP-OE_lw5Ocx8CWNPHy4fO6ysHjHfcu0jwQSDssf3Pgv6c-; expires=Sat, 21-Nov-2026 16:00:04 GMT; path=/; domain=.google.com; priority=high&#xd;
+set-cookie: __Secure-1PSIDCC=AKEyXzXQ1V0VyUZq6zdeX290jHa4f7pweOLrEWViEseJ7K4UPPRl4fZR0QD2s-yMZ2HKZYNgKX5L; expires=Sat, 21-Nov-2026 16:00:04 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high&#xd;
+set-cookie: __Secure-3PSIDCC=AKEyXzX6gXOkDCUizwQE2duFnC-xmZBYebDZZ8Lc70vRyf9uDoQWHA2Hb5BjwqBVB2ogxyP9dTE; expires=Sat, 21-Nov-2026 16:00:04 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000&#xd;
+expires: Fri, 21 Nov 2025 16:00:04 GMT&#xd;
+cache-control: private</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en",null,"52",null,[[["Chromium","142"],["Google Chrome","142"],["Not_A Brand","99"]],0,"Windows","19.0.0","x86","","142.0.7444.163"],[3,0]]],1828,[["1763740805288",null,null,null,null,null,null,"[[[\"/client_streamz/bg/frs\",null,[\"mk\"],[[[[\"_\"]],[null,1787]]]],[\"/client_streamz/bg/ec\",null,[\"en\",\"mk\"],[[[[\"n\"],[\"_\"]],[1]]]],[\"/client_streamz/bg/el\",null,[\"en\",\"mk\"],[[[[\"n\"],[\"_\"]],[null,20.30000000447035]]]]]]",null,null,null,null,null,null,-19800,null,null,null,null,null,74]],"1763740805290"]]]></textPostContent>
+</http-action>
